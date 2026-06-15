@@ -123,7 +123,7 @@ Proprietary application source code, internal research, and detailed technical d
 
 | Public | Not public |
 |--------|------------|
-| Release notes & app binaries | Source code |
+| App binaries (Releases) | Source code |
 | This README | Internal algorithms & models |
 | Issue-based enquiries | Simulation & research tooling |
 
