@@ -1,0 +1,15 @@
+# Binaries → GitHub Releases assets, not git blobs
+*.apk
+*.aab
+*.so
+*.dll
+*.lib
+
+# Secrets
+.env
+*.keystore
+local.properties
+
+# OS
+.DS_Store
+Thumbs.db
